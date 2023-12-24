@@ -20,13 +20,13 @@ footer-links:
   email:
   facebook: ArtofLiving
   flickr: artofliving
-  github: sujith-mn/devon4j
+  github: 
   instagram: artofliving
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: users/1352970/sujith-nair # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: artofliving
+  stackoverflow:  # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
