@@ -1,4 +1,8 @@
 ---
+youtubeId: F4S_4jX0ERA
+---
+
+---
 layout: post
 title: Learn 💫 SUDARSHAN KRIYA
 ---
@@ -31,4 +35,6 @@ Registration link: <br/>
 Morning batch: [Register](https://aolt.in/751804) <br/>
 Evening batch: [Register](https://aolt.in/751806) <br/>
 
-Eligibility: Above 18 years of ag
+Eligibility: Above 18 years of age
+
+{% include youtube.html id=page.youtubeId %}
