@@ -28,7 +28,7 @@ Contact: <br/>
 88841 00898  <br/>
 
 Registration link: <br/>
-Morning batch: aolt.in/751804 <br/>
-Evening batch: aolt.in/751806 <br/>
+Morning batch: https://aolt.in/751804 <br/>
+Evening batch: https://aolt.in/751806 <br/>
 
 Eligibility: Above 18 years of ag
