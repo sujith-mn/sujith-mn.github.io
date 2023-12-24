@@ -3,7 +3,7 @@ layout: post
 title: Learn 💫 SUDARSHAN KRIYA
 ---
 
-[Research about Sudarshan Kriay](https://www.artofliving.org/in-en/research-sudarshan-kriya) <br/>
+[Research about SUDARSHAN KRIYA](https://www.artofliving.org/in-en/research-sudarshan-kriya) <br/>
 [Stemming student burnout with SUDARSHAN KRIYA](https://youtu.be/Vlu3arLc0WE) <br/>
 [Sudarshan Kriya | This Powerful Breathing Technique Will Change Your Life!](https://www.youtube.com/watch?v=F4S_4jX0ERA) <br/>
 
