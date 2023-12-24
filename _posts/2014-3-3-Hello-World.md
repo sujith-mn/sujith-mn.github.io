@@ -3,9 +3,9 @@ layout: post
 title: Learn 💫 SUDARSHAN KRIYA
 ---
 
-⚡https://www.artofliving.org/in-en/research-sudarshan-kriya
-⚡https://youtu.be/Vlu3arLc0WE
-⚡https://www.youtube.com/watch?v=F4S_4jX0ERA
+⚡https://www.artofliving.org/in-en/research-sudarshan-kriya <br/>
+⚡https://youtu.be/Vlu3arLc0WE <br/>
+⚡https://www.youtube.com/watch?v=F4S_4jX0ERA <br/>
 
 ✨Benefits😘 <br/>
 🌟Relief from Stress, Anxiety & Depression <br/>
