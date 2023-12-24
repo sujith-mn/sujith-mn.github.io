@@ -28,7 +28,7 @@ youtubeId: F4S_4jX0ERA
 Morning : 6 30am to 9 30am <br/>
 Evening:  6pm to 9pm <br/>
 
-Venue: Chaitanya Bharathi Hall, Maithri Layout, Near Hope Farm, Bangalore  <br/>
+Venue: [https://maps.app.goo.gl/xuXkfkAjxN2hc59y5](Chaitanya Bharathi Hall, Maithri Layout, Near Hope Farm, Bangalore)  <br/>
 
 Contact: <br/>
 96327 27101  <br/>
