@@ -1,11 +1,9 @@
 ---
+layout: post
+title: Learn 💫 SUDARSHAN KRIYA
 youtubeId: F4S_4jX0ERA
 ---
 
----
-layout: post
-title: Learn 💫 SUDARSHAN KRIYA
----
 
 <!--
 [Stemming student burnout with SUDARSHAN KRIYA](https://youtu.be/Vlu3arLc0WE) <br/>
