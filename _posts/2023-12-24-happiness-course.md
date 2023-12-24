@@ -3,9 +3,9 @@ layout: post
 title: Learn 💫 SUDARSHAN KRIYA
 ---
 
-⚡https://www.artofliving.org/in-en/research-sudarshan-kriya <br/>
-⚡https://youtu.be/Vlu3arLc0WE <br/>
-⚡https://www.youtube.com/watch?v=F4S_4jX0ERA <br/>
+[Research about Sudarshan Kriay](https://www.artofliving.org/in-en/research-sudarshan-kriya) <br/>
+[Stemming student burnout with SUDARSHAN KRIYA](https://youtu.be/Vlu3arLc0WE) <br/>
+[Sudarshan Kriya | This Powerful Breathing Technique Will Change Your Life!](https://www.youtube.com/watch?v=F4S_4jX0ERA) <br/>
 
 ✨Benefits😘 <br/>
 🌟Relief from Stress, Anxiety & Depression <br/>
@@ -28,7 +28,7 @@ Contact: <br/>
 88841 00898  <br/>
 
 Registration link: <br/>
-Morning batch: https://aolt.in/751804 <br/>
-Evening batch: https://aolt.in/751806 <br/>
+Morning batch: [Register](https://aolt.in/751804) <br/>
+Evening batch: [Register](https://aolt.in/751806) <br/>
 
 Eligibility: Above 18 years of ag
