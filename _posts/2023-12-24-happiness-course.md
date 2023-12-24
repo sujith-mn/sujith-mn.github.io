@@ -7,9 +7,8 @@ youtubeId: F4S_4jX0ERA
 
 <!--
 [Stemming student burnout with SUDARSHAN KRIYA](https://youtu.be/Vlu3arLc0WE) <br/>
-[Research about SUDARSHAN KRIYA](https://www.artofliving.org/in-en/research-sudarshan-kriya) <br/>
 -->
-
+[Research about SUDARSHAN KRIYA](https://www.artofliving.org/in-en/research-sudarshan-kriya) <br/>
 
 
 ✨Benefits😘 
